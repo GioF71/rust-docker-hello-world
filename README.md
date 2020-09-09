@@ -9,8 +9,8 @@ Feel free to contact me for issues, improvement requests, etc.
 
 ## Prerequisites
 
-I am starting to explore Rust. I wanted to create a version of the ubiquitous hello-world which would build and run under docker.
-You need to have docker up and running on a Linux/Windows machine. This might be useful if you simply cannot install rust on your machine, but you are allowed to use Docker.  
+I am starting to explore Rust. I wanted to create a version of the ubiquitous hello-world which would build and run under Docker.
+You need to have Docker up and running on a Linux/Windows machine. This might be useful if you simply cannot install Rust on your machine, but you are allowed to use Docker.  
 
 All of this has been tested on:
 
