@@ -4,8 +4,7 @@ A simple "hello-world" application built and run with rust through Docker.
 
 ## Disclaimer
 
-The simple scripts you can find on this repository have been created with the purpose of automating my own workflow. With multiple little servers around, every little thing that can be automated and can save me some time is helpful. I hope this is helpful for you too.
-Feel free to contact me for issues, improvement requests, etc.
+This is just a simple hello-world app.
 
 ## Prerequisites
 
