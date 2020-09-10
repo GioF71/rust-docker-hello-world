@@ -43,4 +43,5 @@ Then you can run the application by running
 
 ## Conclusion
 
-That's basically all. I hope this helps you to get started with Rust using Docker.
+That's basically all.  
+I hope this helps you to get started with Rust using Docker.
