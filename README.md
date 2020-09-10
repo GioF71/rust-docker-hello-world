@@ -14,11 +14,12 @@ You need to have Docker up and running on a Linux/Windows machine. This might be
 All of this has been tested on:
 
 - Windows 10 with Docker Desktop
+- Manjaro Linux (amd64)
 
 As I test the unit and/or the scripts on more platforms, I will update this list.
 
 
-## Usage
+## Usage on Windows
 
 Compile the application by running
 
@@ -28,4 +29,18 @@ Then you can run the application by running
 
 `run`
 
-That's basically all.
+
+## Usage on Linux
+
+Compile the application by running
+
+`sh build.sh`
+
+Then you can run the application by running
+
+`sh run.sh`
+
+
+## Conclusion
+
+That's basically all. I hope this helps you to get started with Rust using Docker.
